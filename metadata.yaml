@@ -3,4 +3,4 @@ display_name: 旅游地图工具
 desc: 为旅游规划提供高德地点搜索与公共交通路线查询能力
 version: v0.1.0
 author: Can10010
-repo: https://github.com/Can10010/astrbot_travel_map/tree/master # 插件的仓库地址
+repo: https://github.com/Can10010/astrbot_travel_map # 插件的仓库地址
